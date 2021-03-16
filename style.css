@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h6{
+    float: right;
+}
+.container{
+    margin-top: 2.5rem;
+}
+.iconify{
+    height: 24px;
+    width: 24px;
+    margin: auto 5px;
+}
